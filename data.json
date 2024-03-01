@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": ["Sci-Fi", "Adventure", "Drama"],
+      "description": "A group of explorers make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": ["Action", "Crime", "Drama"],
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
+    }
+
+  ]
